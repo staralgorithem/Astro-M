@@ -47,13 +47,13 @@ def query(payload):
 
 ######## Set Streamlit page title and icon #######
 st.set_page_config(
-    page_title="Astro_Mind🌌",
-    page_icon="📄"
+    page_title="Astro_Mind",
+    page_icon="🌌"
 )
 
 
 ###### Department ########
-st.title("Upload a PDF File or Enter Text")
+st.title("Astro_Mind🌌")
 Department = st.selectbox("Whats your Department?", ("CEO ", "Structure", "Operations",
                                                      "Human Factors", "Automations", "Business", "Schedule & Costs"), index=None,
                           placeholder="Select your Depatment/ Role...",)
