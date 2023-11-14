@@ -47,7 +47,7 @@ def query(payload):
 
 ######## Set Streamlit page title and icon #######
 st.set_page_config(
-    page_title="File Uploader & Text Input",
+    page_title="Astro_Mind🌌",
     page_icon="📄"
 )
 
@@ -182,7 +182,7 @@ your main goal is to help us make the best proposal of each years RFP and wi in 
 def main():
 
     st.title("Answer")
-    answer = query({"in-1": text_input})
+    answer = query({"in-1": RFP_Decode_Prompt})
     st.write(answer)
 
 
