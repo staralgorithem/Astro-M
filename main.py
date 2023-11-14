@@ -66,7 +66,7 @@ st.write("You can ask any questions about the ARSSDC as well as the RFP!!")
 
 
 # Text input
-text_input = st.text_area("Enter Text (Up to 100 words)", max_chars=100)
+text_input = st.text_area("Ask your question from the Astro Mind AI assistant (Up to 100 words)", max_chars=100)
 
 # Display the uploaded file or entered text
 # Display uploaded text or entered text
