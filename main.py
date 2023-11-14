@@ -60,7 +60,7 @@ Department = st.selectbox("Whats your Department?", ("CEO ", "Structure", "Opera
 
 ######## Title and introduction #######
 
-st.write("You can upload a PDF file or enter up to 100 words of text in the text box below.")
+st.write("You can ask any questions about the ARSSDC as well as the RFP!!")
 
 ###### Text Uploader #######
 
