@@ -1,2 +1,2 @@
-# Astro-M
-An AI Assistant to help the students attend in the ARSSDC and writing the best proposal using the RFP fine tuned AI model.
+# Astro-Mind
+An AI Assistant to help the students attend the ARSSDC and write the best proposal using the RFP fine-tuned AI model.
